@@ -167,7 +167,7 @@ I’ve built and scaled apps used by millions, delivered enterprise-grade SDKs, 
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/paresh-kulkarni-2a0a64a5/" target="_blank">LinkedIn</a>  
+<a href="https://www.linkedin.com/in/pareshkulkarni92/" target="_blank">LinkedIn</a>  
 </p>
 
 ---
