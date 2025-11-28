@@ -9,7 +9,6 @@ Specialized in **Kotlin, Java, Android SDK, Jetpack, Coroutines, MVVM, Clean Arc
 I’ve built and scaled apps used by millions, delivered enterprise-grade SDKs, optimized crash-free releases, and contributed to mission-critical payment solutions.
 
 🌍 Open to opportunities across **India & Abroad (ready to relocate)**  
-💼 Currently Senior Software Engineer at **Mastercard**  
 📚 Exploring **Cloud (Azure), Architecture, CI/CD & System Design**  
 📫 Reach me: **pareshkulkarni0@gmail.com**
 
@@ -31,7 +30,6 @@ I’ve built and scaled apps used by millions, delivered enterprise-grade SDKs, 
 - Basic Node.js
 
 ### **Payments / Banking**
-- Mastercard Digital Enablement Services (MDES)  
 - Secure mobile SDK development  
 - Card Installments, Tokenization  
 - Payment gateway integrations (PayUMoney, CCAvenue)
