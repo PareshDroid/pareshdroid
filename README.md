@@ -16,29 +16,139 @@ I’ve built and scaled apps used by millions, delivered enterprise-grade SDKs, 
 
 ## 🧩 Tech Stack & Expertise
 
-### **Mobile (Android)**
-- Kotlin, Java  
-- MVVM, Clean Architecture, LiveData, Flow, Coroutines  
-- Jetpack Components (Room, Navigation, ViewModel, WorkManager)  
-- Dependency Injection (Hilt, Dagger)  
-- Retrofit, OkHttp, RxJava  
-- Jetpack Compose (working knowledge)
+<table>
+  <tr>
+    <td><strong>Android</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>UI Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Architectures</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MVVM-4CAF50?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-MVP-009688?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-MVC-03A9F4?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Concurrency</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Kotlin%20Flow-5C6BC0?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dependency Injection</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Hilt-0F9D58?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Dagger-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Android Jetpack</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-ViewModel-1976D2?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LiveData-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Room-3F51B5?style=for-the-badge&logo=android&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Networking</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Retrofit-009688?style=for-the-badge&logo=square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-OkHttp-B7178C?style=for-the-badge&logo=square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-### **Backend**
-- Java, Spring, Spring Boot  
-- REST APIs, Microservices  
-- Basic Node.js
+## 🛠️ Backend
 
-### **Payments / Banking**
-- Secure mobile SDK development  
-- Card Installments, Tokenization  
-- Payment gateway integrations (PayUMoney, CCAvenue)
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+    </td>
+  </tr>
 
-### **Tools & DevOps**
-- Git, CI/CD, GitHub Actions, Jenkins  
-- Firebase Crashlytics, Analytics  
-- Postman, Charles Proxy  
-- Agile/Scrum
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Microservices-2196F3?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>APIs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-REST%20APIs-FF9800?style=for-the-badge&logo=rest&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+
+## 🛠️ Tools & DevOps
+
+<table>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Testing & Debug Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Charles%20Proxy-007ACC?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Firebase</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Crashlytics-4285F4?style=for-the-badge&logo=firebase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Methodologies</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Agile-28A745?style=for-the-badge&logo=agile&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
